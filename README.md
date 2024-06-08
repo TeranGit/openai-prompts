@@ -68,7 +68,7 @@ Clear and specific instructions are essential for guiding a model towards the de
 ## Structured Output Generation
 
 >### Output:
-'''json
+'''plaintext
 [
     {
         "book_id": 1,
