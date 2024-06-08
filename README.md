@@ -56,7 +56,7 @@ python main.py
 - Consistent Response Generation: Generates a consistent response in a specific style.
 
 ## Examples
->### Text Summarization
+### Text Summarization
 
 >### Input:
 ````
