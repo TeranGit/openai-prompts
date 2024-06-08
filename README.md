@@ -20,7 +20,7 @@ To set up this project, you'll need to have Python installed. It's recommended t
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/yourusername/openai_prompt_project.git
+    git clone https://github.com/TeranGit/openai-prompts.git
     cd openai_prompt_project
     ```
 
