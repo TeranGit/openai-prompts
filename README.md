@@ -69,7 +69,7 @@ Clear and specific instructions are essential for guiding a model towards the de
 
 >### Output:
 
-```json
+````json
 [
     {
         "book_id": 1,
@@ -90,6 +90,7 @@ Clear and specific instructions are essential for guiding a model towards the de
         "genre": "Romance"
     }
 ]
+````
 
 ## Instruction Re-writing
 
