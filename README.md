@@ -41,7 +41,7 @@ To set up this project, you'll need to have Python installed. It's recommended t
 You need to have an API key from OpenAI. Sign up at [OpenAI](https://platform.openai.com/signup) and get your API key from the API keys section.
 
 Create a `.env` file in the root directory of your project and add your API key:
-```plaintext
+
 OPENAI_API_KEY=your_openai_api_key
 
 ## Usage
