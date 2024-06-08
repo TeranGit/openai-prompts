@@ -1,4 +1,4 @@
-# OpenAI Prompt Project
+# OpenAI Prompt Engineering for Developers
 
 ## Overview
 
