@@ -131,7 +131,7 @@ Step 7 - Enjoy your delicious cup of tea.
 Contributions are welcome! Please fork this repository and submit a pull request for any improvements or bug fixes.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the GNU License. See the LICENSE file for details.
 
 >## Acknowledgements
 Thanks to OpenAI for providing the powerful GPT-3.5 model.
