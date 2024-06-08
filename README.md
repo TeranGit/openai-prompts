@@ -67,7 +67,8 @@ Clear and specific instructions are essential for guiding a model towards the de
 
 ## Structured Output Generation
 
-### Output:
+>### Output:
+'''json
 [
     {
         "book_id": 1,
@@ -88,13 +89,13 @@ Clear and specific instructions are essential for guiding a model towards the de
         "genre": "Romance"
     }
 ]
+'''
+## Instruction Re-writing
 
-##Instruction Re-writing
-
-##Input:
+>## Input:
 Making a cup of tea is easy! First, you need to get some water boiling. While that's happening, grab a cup and put a tea bag in it. Once the water is hot enough, just pour it over the tea bag. Let it sit for a bit so the tea can steep. After a few minutes, take out the tea bag. If you like, you can add some sugar or milk to taste. And that's it! You've got a delicious cup of tea to enjoy.
 
-### Output:
+>### Output:
 Step 1 - Get some water boiling.
 Step 2 - Grab a cup and put a tea bag in it.
 Step 3 - Pour the hot water over the tea bag.
